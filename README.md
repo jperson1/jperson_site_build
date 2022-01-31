@@ -9,3 +9,5 @@ Credit to this tutorial for the base features of the site: https://www.freecodec
 ## Changelog:
 
 1/29/2022 - First build version released
+
+1/31/2022 - Experience description update, site description update
