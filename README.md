@@ -4,7 +4,7 @@ Build version of the jperson_site private repo. Still in early development! If y
 ## About this site:
 Created on Node.js, React, and Tailwindcss
 
-Credit to this Free Code Camp for the base features of the site: https://www.freecodecamp.org/news/build-portfolio-website-react/
+Credit to Free Code Camp for the base features of the site: https://www.freecodecamp.org/news/build-portfolio-website-react/
 
 ## Changelog:
 
