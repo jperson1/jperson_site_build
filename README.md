@@ -11,3 +11,5 @@ Credit to Free Code Camp for the base features of the site: https://www.freecode
 1/29/2022 - First build version released
 
 1/31/2022 - Experience description update, site description update
+
+2/4/2022 - Navbar Git and Linkedin Links
