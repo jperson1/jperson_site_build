@@ -15,3 +15,5 @@ Credit to Free Code Camp for the base features of the site: https://www.freecode
 2/4/2022 - Navbar Git and Linkedin Links
 
 2/5/2022 - Footer, shadows, padding
+
+2/7/2022 - Removed unneccessary files
