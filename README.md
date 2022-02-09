@@ -17,3 +17,5 @@ Credit to Free Code Camp for the base features of the site: https://www.freecode
 2/5/2022 - Footer, shadows, padding
 
 2/7/2022 - Removed unneccessary files
+
+2/9/2022 - Shadows, minor updates
