@@ -1,5 +1,8 @@
+DEPRECATED: Left up for future reference (or not).
+Please instead check [HERE](https://github.com/jperson1/jperson1.github.io) for source code.
+
 # jperson_site_build
-Build version of the jperson_site repo. Still in early development! If you see issues, please let me know!
+Build version of the jperson_site repo. 
 
 ## About this site:
 Created on Node, React, and Tailwindcss
